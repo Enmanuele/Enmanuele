@@ -8,8 +8,8 @@ Lo que más me emociona es la posibilidad de colaborar en proyectos innovadores 
 Si estás buscando un desarrollador apasionado y orientado a resultados para unirse a tu equipo, ¡no busques más! Estoy listo para poner mi experiencia y entusiasmo al servicio de tu proyecto. ¡Conversemos y hagamos cosas increíbles juntos!
 <br><br>
 
-# Nuevas Tecnologías
-Vertex AI - GCP
+# Tecnologías en proceso
+<b> Vertex AI - GCP </b>
 
 # 💻 Tecnologías que uso:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
